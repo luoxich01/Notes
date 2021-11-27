@@ -1,2 +1,5 @@
 - With Recursive 
 https://medium.com/swlh/recursion-in-sql-explained-graphically-679f6a0f143b
+
+- lead() and lag()
+https://learnsql.com/blog/lead-and-lag-functions-in-sql/
